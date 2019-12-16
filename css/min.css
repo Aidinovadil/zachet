@@ -13,9 +13,41 @@
     color: #FFFFFF;
     margin-left: 50px;
 }
+.imag{
+    margin-left: 50px;
+}
 .ico{
     margin-top: 50px;
 }
 .navbar-toggler{
     color: #FFFFFF;
+}
+.header-info{
+    margin-top: 150px;
+}
+.info{
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.5em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-left: 50%;
+}
+.text{
+    font-family: Banny;
+    font-size: 96px;
+    line-height: 0px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    margin-top: 50px;
+    margin-left: 200px;
 }
