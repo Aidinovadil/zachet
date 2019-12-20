@@ -51,3 +51,55 @@
     margin-top: 50px;
     margin-left: 200px;
 }
+.mon{
+    margin-left: -900px;
+    font-family: Open Sans;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 12px;
+    text-align: center;
+    color: #FFFFFF;
+    transform: rotate(-90deg);
+}
+.icons{
+    width: 60px;
+    height: 220px;
+    margin-left: auto;
+    margin-top: -150px;
+}
+.icon{
+    width: 80px;
+    height: 80px;
+    padding: 10px;
+}
+.bint{
+    text-align: center;
+    padding: 100px 0;
+}
+.fon{
+    color: white;
+    background: none;
+    border-radius: 5px;
+    padding: 15px;
+}
+.fon1{
+    background: none;
+    color: #FFFFFF;
+    border-radius: 5px;
+    padding: 15px;
+    margin-left: 10px;
+}
+.fon:hover{
+    background: #E8C300;
+}
+.fon1:hover{
+    background: #E8C300;
+}
+.rectangl{
+    text-align: center;
+    width: 60px;
+    height: 5.11px;
+    background: #E8C300;
+    border-radius: 50%;
+}
